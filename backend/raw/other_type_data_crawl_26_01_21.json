@@ -1,0 +1,7477 @@
+[
+    {
+        "symbol": "VRE12007",
+        "name": "Trái phiếu Công ty Cổ phần Vincom Retail",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VPI124001",
+        "name": "Trái phiếu CTCP Đầu tư Văn Phú -Invest",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VNT421032",
+        "name": "VNT421032 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VNG122002",
+        "name": "VNG122002 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VND122014",
+        "name": "VND122014 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VND122013",
+        "name": "VND122013 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VND122012",
+        "name": "VND122012 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VN30F2512",
+        "name": "VN30F2512 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2509",
+        "name": "VN30F2509 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2506",
+        "name": "VN30F2506 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2505",
+        "name": "VN30F2505 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2504",
+        "name": "VN30F2504 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2503",
+        "name": "VN30F2503 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2502",
+        "name": "VN30F2502 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2501",
+        "name": "VN30F2501 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2412",
+        "name": "VN30F2412 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2411",
+        "name": "VN30F2411 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2410",
+        "name": "VN30F2410 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2409",
+        "name": "VN30F2409 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2408",
+        "name": "VN30F2408 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2407",
+        "name": "VN30F2407 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2406",
+        "name": "VN30F2406 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2405",
+        "name": "VN30F2405 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2404",
+        "name": "VN30F2404 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2403",
+        "name": "VN30F2403 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2402",
+        "name": "VN30F2402 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VN30F2401",
+        "name": "VN30F2401 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "VIC124005",
+        "name": "Trai phieu VICH2326003",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC124004",
+        "name": "Trai phieu VICH2325005",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC124003",
+        "name": "Trai phieu VICH2326002",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC123029",
+        "name": "Trai phieu VICH2326001",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC123028",
+        "name": "Trai phieu VICH2325004",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC121005",
+        "name": "VIC121005 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC121004",
+        "name": "VIC121004 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VIC121003",
+        "name": "VIC121003 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VHM121025",
+        "name": "Trái phiếu Công ty cổ phần Vinhomes",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VHM121024",
+        "name": "VHM121024 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VCK125005",
+        "name": "Trai phieu CTCP Chung khoan VPS chao ban ra cong chung 2025",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBB124007",
+        "name": "Trái phiếu Vietbank 2022",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBB123017",
+        "name": "Trái phiếu Vietbank 2022 đợt 2",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBB122033",
+        "name": "VBB122033 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBA125019",
+        "name": "Trái phiếu Agribank phát hành ra công chúng năm 2025",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBA124019",
+        "name": "Trai Phieu Agribank 2024-2034",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBA123036",
+        "name": "Trái phiếu Agribank",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBA122001",
+        "name": "Trai phieu NHNN&PTNT VN",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VBA121033",
+        "name": "Trai phieu Ngan hang Nong nghiep va Phat trien nong thon Vie",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VAB125029",
+        "name": "Trái phiếu VAB phát hành ra công chúng (TPVAB253202) (VAB125029)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "VAB125020",
+        "name": "Trái phiếu VAB phát hành ra công chúng (VAB125020)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TNG124027",
+        "name": "Trái phiếu TNGH2428001 (TNG124027)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TNG122017",
+        "name": "Trai phieu CTCP Dau tu thuong mai TNG",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TNG119007",
+        "name": "TNG119007 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TN1122016",
+        "name": "TN1122016 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TDP124010",
+        "name": "Trái phiếu TDPH2326001",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TCX124013",
+        "name": "Trái phiếu TCSCPO2325003",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TCX124012",
+        "name": "Trái phiếu TCSCPO2325002",
+        "type": "BOND"
+    },
+    {
+        "symbol": "TCX124011",
+        "name": "Trái phiếu TCSCPO2325001",
+        "type": "BOND"
+    },
+    {
+        "symbol": "SHB125017",
+        "name": "Trái phiếu SHB phát hành ra công chúng năm 2024 (SHBC7Y202402) (SHB125017)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "SHB125010",
+        "name": "Trái phiếu SHB phát hành ra công chúng năm 2024 (SHBC7Y202401)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "SBT425026",
+        "name": "Trái phiếu SBT425001",
+        "type": "BOND"
+    },
+    {
+        "symbol": "SBT121002",
+        "name": "SBT121002 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NVL122001",
+        "name": "Trai Phieu CTCP Tap doan dau tu dia oc No Va",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM123024",
+        "name": "CT TNHH Khai thac Che bien Khoang san Nui Phao",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM123023",
+        "name": "CT TNHH Khai thac Che bien Khoang san Nui Phao",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM123022",
+        "name": "Cong ty TNHH Khai thac Che  bien Khoang san Nui Phao",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM123021",
+        "name": "CT TNHH Khai thac Che bien Khoang san Nui Phao",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM11911",
+        "name": "NPM11911 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM11907",
+        "name": "NPM11907 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "NPM11805",
+        "name": "NPM11805 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSR11808",
+        "name": "MSR11808 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN123014",
+        "name": "Trai phieu Masan",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN123010",
+        "name": "Trai phieu CTCP tap doan Masan",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN123009",
+        "name": "Trai phieu CTCP Tap doan Masan",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN123008",
+        "name": "Trai phieu CTCP Tap doan Masan",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN121015",
+        "name": "MSN121015 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN121014",
+        "name": "MSN121014 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN121013",
+        "name": "MSN121013 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN12005",
+        "name": "MSN12005 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN12003",
+        "name": "MSN12003 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN12002",
+        "name": "MSN12002 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN120012",
+        "name": "MSN120012 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN120011",
+        "name": "MSN120011 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN120010",
+        "name": "MSN120010 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN12001",
+        "name": "MSN12001 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN120009",
+        "name": "MSN120009 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN120008",
+        "name": "MSN120008 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MSN120007",
+        "name": "MSN120007 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MML121021",
+        "name": "Trai phieu CTCP Masan Meatlife",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MBB125008",
+        "name": "Trái phiếu Ngân hàng TMCP Quân Đội (MBBH2430003)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MBB124022",
+        "name": "Trái phiếu Ngân hàng TMCP Quân Đội",
+        "type": "BOND"
+    },
+    {
+        "symbol": "MBB124017",
+        "name": "Trai phieu NHTMCP Quan Doi",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB125028",
+        "name": "Trái phiếu phát hành ra công chúng LPBank năm 2024 (LPB10Y202404)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB125027",
+        "name": "Trái phiếu phát hành ra công chúng LPBank năm 2024 (LPB7Y202403)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB125007",
+        "name": "Trai phieu LPBank 2024 LPB10Y202402",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB125006",
+        "name": "Trai phieu LPBank 2024 LPB7Y202401",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB123016",
+        "name": "Trai phieu NHTMCP Buu Dien Lien Viet",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB123015",
+        "name": "LPB123015 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB123009",
+        "name": "Trái phiếu Ngân hàng TMCP Bưu Điện Liên Việt",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB123008",
+        "name": "Trái phiếu Ngân hàng TMCP Bưu Điện Liên Việt 2022",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB122013",
+        "name": "Trai Phieu NHTMCP Lien viet 2022",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB122012",
+        "name": "LPB122012 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB122011",
+        "name": "Trai phieu NHTMCP Buu dien Lien viet",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB122010",
+        "name": "LPB122010 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB121036",
+        "name": "Trai phieu Ngan hang TMCP Buu dien Lien Viet",
+        "type": "BOND"
+    },
+    {
+        "symbol": "LPB121035",
+        "name": "LPB121035 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "KLB125016",
+        "name": "Trái phiếu Ngân hàng TMCP Kiên Long phát hành ra công chúng (KLB7Y202403)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "KLB125015",
+        "name": "Trái phiếu Ngân hàng TMCP Kiên Long phát hành ra công chúng (KLB7Y202402)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "KLB124009",
+        "name": "Trái phiếu Ngân hàng TMCP Kiên Long phát hành ra công chúng (KLB7Y202401)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "KBC121020",
+        "name": "KBC121020 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDG121001",
+        "name": "HDG121001 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB125025",
+        "name": "Trái phiếu HDBank phát hành ra công chúng năm 2025 (HDBC8Y253302) (HDB125025)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB125024",
+        "name": "Trái phiếu HDBank phát hành ra công chúng năm 2025 (HDBC7Y253202) (HDB125024)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB125012",
+        "name": "Trái phiếu HDBank phát hành ra công chúng năm 2025 (HDBC8Y253301)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB125011",
+        "name": "Trái phiếu HDBank phát hành ra công chúng năm 2025 (HDBC7Y253201)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB124023",
+        "name": "Trai phieu HD Bank",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB124018",
+        "name": "Trai phieu HDBank 2023",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HDB124006",
+        "name": "Trái phiếu HDBANK",
+        "type": "BOND"
+    },
+    {
+        "symbol": "HCMA0307",
+        "name": null,
+        "type": "DEBENTURE"
+    },
+    {
+        "symbol": "GLH121026",
+        "name": "GLH121026 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "GLH121019",
+        "name": "GLH121019 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "GEG121022",
+        "name": "GEG121022 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "GB10F2512",
+        "name": "GB10F2512 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2509",
+        "name": "GB10F2509 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2506",
+        "name": "GB10F2506 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2503",
+        "name": "GB10F2503 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2412",
+        "name": "GB10F2412 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2409",
+        "name": "GB10F2409 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2406",
+        "name": "GB10F2406 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2403",
+        "name": "GB10F2403 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2312",
+        "name": "GB10F2312 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2309",
+        "name": "GB10F2309 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2306",
+        "name": "GB10F2306 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2303",
+        "name": "GB10F2303 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2212",
+        "name": "GB10F2212 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2209",
+        "name": "GB10F2209 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB10F2206",
+        "name": "GB10F2206 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2512",
+        "name": "GB05F2512 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2509",
+        "name": "GB05F2509 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2506",
+        "name": "GB05F2506 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2503",
+        "name": "GB05F2503 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2412",
+        "name": "GB05F2412 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2409",
+        "name": "GB05F2409 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2406",
+        "name": "GB05F2406 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2403",
+        "name": "GB05F2403 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2312",
+        "name": "GB05F2312 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2309",
+        "name": "GB05F2309 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2306",
+        "name": "GB05F2306 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2303",
+        "name": "GB05F2303 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2212",
+        "name": "GB05F2212 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2209",
+        "name": "GB05F2209 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "GB05F2206",
+        "name": "GB05F2206 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "FUEVN100",
+        "name": "Quỹ ETF VINACAPITAL VN100",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEVFVND",
+        "name": "Quỹ ETF DCVFMVN DIAMOND",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUETPVND",
+        "name": "Quỹ ETF VFCVN DIAMOND",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUETCC50",
+        "name": "Quỹ ETF TECHCOM CAPITAL VNX50",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUESSVFL",
+        "name": "Quỹ ETF SSIAM VNFIN LEAD",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUESSV50",
+        "name": "Quỹ ETF SSIAM VNX50",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUESSV30",
+        "name": "Quỹ ETF SSIAM VN30",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEMAVND",
+        "name": "Quỹ ETF MAFM VNDIAMOND",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEMAV30",
+        "name": "Quỹ ETF MAFM VN30",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEKIVND",
+        "name": "Quỹ ETF KIM GROWTH VN DIAMOND",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEKIVFS",
+        "name": "Quỹ ETF KIM Growth VNFINSELECT",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEKIV30",
+        "name": "Quỹ ETF KIM Growth VN30",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEIP100",
+        "name": "Quỹ ETF IPAAM VN100",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEFCV50",
+        "name": "Quỹ ETF FPT CAPITAL VNX50",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEDCMID",
+        "name": "Quỹ ETF DCVFMVNMIDCAP",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEBFVND",
+        "name": "Quỹ ETF BVFVN DIAMOND",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUEABVND",
+        "name": "Quỹ ETF ABFVN DIAMOND",
+        "type": "ETF"
+    },
+    {
+        "symbol": "FUCVREIT",
+        "name": "Quỹ Đầu tư Bất động sản Techcom Việt Nam",
+        "type": "UNIT_TRUST"
+    },
+    {
+        "symbol": "FUCTVGF5",
+        "name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 5",
+        "type": "UNIT_TRUST"
+    },
+    {
+        "symbol": "FUCTVGF4",
+        "name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 4",
+        "type": "UNIT_TRUST"
+    },
+    {
+        "symbol": "FUCTVGF3",
+        "name": "Quỹ Đầu tư Tăng trưởng Thiên Việt 3",
+        "type": "UNIT_TRUST"
+    },
+    {
+        "symbol": "E1VFVN30",
+        "name": "Quỹ ETF DCVFMVN30",
+        "type": "ETF"
+    },
+    {
+        "symbol": "DSE125018",
+        "name": "Trái phiếu DSE125018",
+        "type": "BOND"
+    },
+    {
+        "symbol": "DSE125004",
+        "name": "Trái phiếu DSEH2426001",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CVT122009",
+        "name": "Trai phieu CTCP CMC",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CVT122008",
+        "name": "CVT122008 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CVT122007",
+        "name": "CVT122007 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CVRE2527",
+        "name": "Chứng quyền VRE/VIETCAP/M/Au/T/A5",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2526",
+        "name": "Chứng quyền VRE/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2525",
+        "name": "Chứng quyền VRE/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2524",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.45",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2523",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.44",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2522",
+        "name": "Chứng quyền VRE/MBS/C/EU/CASH/9M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2521",
+        "name": "Chứng quyền VRE.07.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2520",
+        "name": "Chứng quyền VRE.06.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2519",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.42",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2518",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.41",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2517",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.40",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2516",
+        "name": "Chứng quyền VRE/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2515",
+        "name": "Chứng quyền VRE/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2514",
+        "name": "Chứng quyền VRE/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2513",
+        "name": "Chứng quyền VRE/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2512",
+        "name": "Chứng quyền VRE/ACBS/Call/EU/Cash/12M/80",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2511",
+        "name": "Chứng quyền VRE-HSC-MET19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2510",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.39",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2509",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.38",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2508",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.37",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2507",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.36",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2506",
+        "name": "Chứng quyền.VRE.KIS.M.CA.T.35",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2505",
+        "name": "CVRE2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2504",
+        "name": "CVRE2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2503",
+        "name": "CVRE2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2502",
+        "name": "CVRE2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2501",
+        "name": "CVRE2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2410",
+        "name": "CVRE2410 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2409",
+        "name": "CVRE2409 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2408",
+        "name": "Chứng quyền VRE/MBS/C/EU/CASH/9M/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2407",
+        "name": "Chứng quyền VRE/ACBS/Call/EU/Cash/12M/67",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2406",
+        "name": "Chứng quyền VRE/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2405",
+        "name": "CVRE2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2404",
+        "name": "CVRE2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2403",
+        "name": "CVRE2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2402",
+        "name": "CVRE2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2401",
+        "name": "CVRE2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2323",
+        "name": "CVRE2323 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2322",
+        "name": "CVRE2322 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2321",
+        "name": "CVRE2321 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2320",
+        "name": "CVRE2320 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2319",
+        "name": "CVRE2319 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2318",
+        "name": "CVRE2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2317",
+        "name": "CVRE2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2316",
+        "name": "CVRE2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2315",
+        "name": "CVRE2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2314",
+        "name": "CVRE2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2313",
+        "name": "CVRE2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2312",
+        "name": "CVRE2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2311",
+        "name": "CVRE2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2310",
+        "name": "CVRE2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2309",
+        "name": "CVRE2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2308",
+        "name": "CVRE2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2307",
+        "name": "CVRE2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2306",
+        "name": "CVRE2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2305",
+        "name": "CVRE2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2304",
+        "name": "CVRE2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2303",
+        "name": "CVRE2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2302",
+        "name": "CVRE2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2301",
+        "name": "CVRE2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2221",
+        "name": "CVRE2221 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2220",
+        "name": "CVRE2220 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2219",
+        "name": "CVRE2219 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2218",
+        "name": "CVRE2218 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2217",
+        "name": "CVRE2217 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2216",
+        "name": "CVRE2216 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2215",
+        "name": "CVRE2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2214",
+        "name": "CVRE2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2213",
+        "name": "CVRE2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2212",
+        "name": "CVRE2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2211",
+        "name": "CVRE2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2210",
+        "name": "CVRE2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2209",
+        "name": "CVRE2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2208",
+        "name": "CVRE2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2207",
+        "name": "CVRE2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2206",
+        "name": "CVRE2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2205",
+        "name": "CVRE2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2204",
+        "name": "CVRE2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2203",
+        "name": "CVRE2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2202",
+        "name": "CVRE2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2201",
+        "name": "CVRE2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2114",
+        "name": "CVRE2114 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2113",
+        "name": "CVRE2113 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2110",
+        "name": "CVRE2110 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVRE2105",
+        "name": "CVRE2105 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2533",
+        "name": "Chứng quyền VPB/VIETCAP/M/Au/T/A8",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2532",
+        "name": "Chứng quyền VPB/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2531",
+        "name": "Chứng quyền VPB/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2530",
+        "name": "Chứng quyền VPB/PINETREE/C/EU/7M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2529",
+        "name": "Chứng quyền VPB/PINETREE/C/EU/4M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2528",
+        "name": "Chứng quyền.VPB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2527",
+        "name": "Chứng quyền.VPB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2526",
+        "name": "Chứng quyền VPB/0225/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2525",
+        "name": "Chứng quyền VPB/0125/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2524",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.22",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2523",
+        "name": "Chứng quyền VPB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2522",
+        "name": "Chứng quyền VPB.06.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2521",
+        "name": "Chứng quyền VPB.03.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2520",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.21",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2519",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2518",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2517",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2516",
+        "name": "Chứng quyền VPB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2515",
+        "name": "Chứng quyền VPB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2514",
+        "name": "Chứng quyền VPB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2513",
+        "name": "Chứng quyền VPB/ACBS/Call/EU/Cash/12M/79",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2512",
+        "name": "Chứng quyền VPB-HSC-MET18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2511",
+        "name": "Chứng quyền VPB-HSC-MET17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2510",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2509",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.16",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2508",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.15",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2507",
+        "name": "Chứng quyền.VPB.KIS.M.CA.T.14",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2506",
+        "name": "CVPB2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2505",
+        "name": "CVPB2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2504",
+        "name": "Chứng quyền VPB/BSC/C/15M/EU/Cash/2024-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2503",
+        "name": "CVPB2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2502",
+        "name": "Chứng quyền VPB/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2501",
+        "name": "CVPB2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2412",
+        "name": "CVPB2412 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2411",
+        "name": "CVPB2411 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2410",
+        "name": "Chứng quyền VPB/MBS/C/EU/CASH/9M/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2409",
+        "name": "Chứng quyền VPB/ACBS/Call/EU/Cash/12M/66",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2408",
+        "name": "CVPB2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2407",
+        "name": "Chứng quyền VPB/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2406",
+        "name": "CVPB2406 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2405",
+        "name": "CVPB2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2404",
+        "name": "CVPB2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2403",
+        "name": "CVPB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2402",
+        "name": "CVPB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2401",
+        "name": "CVPB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2322",
+        "name": "CVPB2322 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2321",
+        "name": "CVPB2321 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2320",
+        "name": "CVPB2320 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2319",
+        "name": "CVPB2319 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2318",
+        "name": "CVPB2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2317",
+        "name": "CVPB2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2316",
+        "name": "CVPB2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2315",
+        "name": "CVPB2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2314",
+        "name": "CVPB2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2313",
+        "name": "CVPB2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2312",
+        "name": "CVPB2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2311",
+        "name": "CVPB2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2310",
+        "name": "CVPB2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2309",
+        "name": "CVPB2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2308",
+        "name": "CVPB2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2307",
+        "name": "CVPB2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2306",
+        "name": "CVPB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2305",
+        "name": "CVPB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2304",
+        "name": "CVPB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2303",
+        "name": "CVPB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2302",
+        "name": "CVPB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2301",
+        "name": "CVPB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2214",
+        "name": "CVPB2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2213",
+        "name": "CVPB2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2212",
+        "name": "CVPB2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2211",
+        "name": "CVPB2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2210",
+        "name": "CVPB2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2209",
+        "name": "CVPB2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2208",
+        "name": "CVPB2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2207",
+        "name": "CVPB2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2206",
+        "name": "CVPB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2205",
+        "name": "CVPB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2204",
+        "name": "CVPB2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2203",
+        "name": "CVPB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2202",
+        "name": "CVPB2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2201",
+        "name": "CVPB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVPB2111",
+        "name": "CVPB2111 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2524",
+        "name": "Chứng quyền VNM/VIETCAP/M/Au/T/A6",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2523",
+        "name": "Chứng quyền.VNM.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2522",
+        "name": "Chứng quyền.VNM.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2521",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.37",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2520",
+        "name": "Chứng quyền VNM.06.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2519",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.36",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2518",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.35",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2517",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.34",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2516",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.33",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2515",
+        "name": "Chứng quyền VNM/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2514",
+        "name": "Chứng quyền VNM/VPBANKS/C/EU/7M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2513",
+        "name": "Chứng quyền VNM/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2512",
+        "name": "Chứng quyền VNM/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2511",
+        "name": "Chứng quyền VNM/ACBS/Call/EU/Cash/12M/78",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2510",
+        "name": "Chứng quyền VNM-HSC-MET12",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2509",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.32",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2508",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.31",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2507",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.30",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2506",
+        "name": "Chứng quyền.VNM.KIS.M.CA.T.29",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2505",
+        "name": "CVNM2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2504",
+        "name": "CVNM2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2503",
+        "name": "Chứng quyền VNM/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2502",
+        "name": "CVNM2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2501",
+        "name": "CVNM2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2408",
+        "name": "CVNM2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2407",
+        "name": "Chứng quyền VNM/ACBS/Call/EU/Cash/12M/65",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2406",
+        "name": "Chứng quyền VNM/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2405",
+        "name": "CVNM2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2404",
+        "name": "CVNM2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2403",
+        "name": "CVNM2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2402",
+        "name": "CVNM2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2401",
+        "name": "CVNM2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2316",
+        "name": "CVNM2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2315",
+        "name": "CVNM2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2314",
+        "name": "CVNM2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2313",
+        "name": "CVNM2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2312",
+        "name": "CVNM2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2311",
+        "name": "CVNM2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2310",
+        "name": "CVNM2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2309",
+        "name": "CVNM2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2308",
+        "name": "CVNM2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2307",
+        "name": "CVNM2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2306",
+        "name": "CVNM2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2305",
+        "name": "CVNM2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2304",
+        "name": "CVNM2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2303",
+        "name": "CVNM2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2302",
+        "name": "CVNM2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2301",
+        "name": "CVNM2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2212",
+        "name": "CVNM2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2211",
+        "name": "CVNM2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2210",
+        "name": "CVNM2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2209",
+        "name": "CVNM2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2208",
+        "name": "CVNM2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2207",
+        "name": "CVNM2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2206",
+        "name": "CVNM2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2205",
+        "name": "CVNM2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2204",
+        "name": "CVNM2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2203",
+        "name": "CVNM2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2202",
+        "name": "CVNM2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2201",
+        "name": "CVNM2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2114",
+        "name": "CVNM2114 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2113",
+        "name": "CVNM2113 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2112",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVNM2111",
+        "name": "CVNM2111 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2507",
+        "name": "Chứng quyền VJC/VIETCAP/M/Au/T/A2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2506",
+        "name": "Chứng quyền.VJC.KIS.M.CA.T.23",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2505",
+        "name": "Chứng quyền.VJC.KIS.M.CA.T.22",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2504",
+        "name": "Chứng quyền.VJC.KIS.M.CA.T.21",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2503",
+        "name": "Chứng quyền.VJC.KIS.M.CA.T.20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2502",
+        "name": "Chứng quyền.VJC.KIS.M.CA.T.19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2501",
+        "name": "CVJC2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2401",
+        "name": "CVJC2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2206",
+        "name": "CVJC2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2205",
+        "name": "CVJC2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2204",
+        "name": "CVJC2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2203",
+        "name": "CVJC2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2202",
+        "name": "CVJC2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2201",
+        "name": "CVJC2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVJC2103",
+        "name": "CVJC2103 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2517",
+        "name": "Chứng quyền VIC/VIETCAP/M/Au/T/A4",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2516",
+        "name": "Chứng quyền VIC/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2515",
+        "name": "Chứng quyền VIC/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2514",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.41",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2513",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.40",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2511",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.37",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2510",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.36",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2509",
+        "name": "Chứng quyền VIC-HSC-MET05",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2508",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.35",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2507",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.34",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2506",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.33",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2505",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.32",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2504",
+        "name": "Chứng quyền.VIC.KIS.M.CA.T.31",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2503",
+        "name": "CVIC2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2502",
+        "name": "CVIC2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2501",
+        "name": "CVIC2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2407",
+        "name": "CVIC2407 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2406",
+        "name": "CVIC2406 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2405",
+        "name": "Chứng quyền VIC/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2404",
+        "name": "CVIC2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2403",
+        "name": "CVIC2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2402",
+        "name": "CVIC2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2401",
+        "name": "CVIC2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2314",
+        "name": "CVIC2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2313",
+        "name": "CVIC2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2312",
+        "name": "CVIC2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2311",
+        "name": "CVIC2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2310",
+        "name": "CVIC2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2309",
+        "name": "CVIC2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2308",
+        "name": "CVIC2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2307",
+        "name": "CVIC2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2306",
+        "name": "CVIC2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2305",
+        "name": "CVIC2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2304",
+        "name": "CVIC2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2303",
+        "name": "CVIC2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2302",
+        "name": "CVIC2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2301",
+        "name": "CVIC2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2206",
+        "name": "CVIC2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2205",
+        "name": "CVIC2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2204",
+        "name": "CVIC2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2203",
+        "name": "CVIC2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2202",
+        "name": "CVIC2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2201",
+        "name": "CVIC2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2109",
+        "name": "CVIC2109 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2108",
+        "name": "CVIC2108 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2107",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIC2106",
+        "name": "CVIC2106 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2514",
+        "name": "Chứng quyền VIB/VIETCAP/M/Au/T/A4",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2513",
+        "name": "Chứng quyền.VIB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2512",
+        "name": "Chứng quyền.VIB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2511",
+        "name": "Chứng quyền VIB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2510",
+        "name": "Chứng quyền.VIB.KIS.M.CA.T.02",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2509",
+        "name": "Chứng quyền.VIB.KIS.M.CA.T.01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2508",
+        "name": "Chứng quyền VIB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2507",
+        "name": "Chứng quyền VIB/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2506",
+        "name": "Chứng quyền VIB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2505",
+        "name": "Chứng quyền VIB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2504",
+        "name": "Chứng quyền VIB/ACBS/Call/EU/Cash/12M/77",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2503",
+        "name": "CVIB2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2502",
+        "name": "CVIB2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2501",
+        "name": "CVIB2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2408",
+        "name": "CVIB2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2407",
+        "name": "Chứng quyền VIB/ACBS/Call/EU/Cash/12M/64",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2406",
+        "name": "Chứng quyền VIB/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2405",
+        "name": "CVIB2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2404",
+        "name": "CVIB2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2403",
+        "name": "CVIB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2402",
+        "name": "CVIB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2401",
+        "name": "CVIB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2307",
+        "name": "CVIB2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2306",
+        "name": "CVIB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2305",
+        "name": "CVIB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2304",
+        "name": "CVIB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2303",
+        "name": "CVIB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2302",
+        "name": "CVIB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2301",
+        "name": "CVIB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVIB2201",
+        "name": "CVIB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2525",
+        "name": "Chứng quyền VHM/VIETCAP/M/Au/T/A5",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2524",
+        "name": "Chứng quyền VHM/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2523",
+        "name": "Chứng quyền VHM/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2522",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.40",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2521",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.39",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2520",
+        "name": "Chứng quyền VHM.03.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2519",
+        "name": "Chứng quyền VHM.01.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2518",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.36",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2517",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.35",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2516",
+        "name": "Chứng quyền VHM/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2515",
+        "name": "Chứng quyền VHM/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2514",
+        "name": "Chứng quyền VHM/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2513",
+        "name": "Chứng quyền VHM/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2512",
+        "name": "Chứng quyền VHM/ACBS/Call/EU/Cash/12M/76",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2511",
+        "name": "Chứng quyền VHM-HSC-MET17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2510",
+        "name": "Chứng quyền VHM-HSC-MET16",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2509",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.34",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2508",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.33",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2507",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.32",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2506",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.31",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2505",
+        "name": "Chứng quyền.VHM.KIS.M.CA.T.30",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2504",
+        "name": "CVHM2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2503",
+        "name": "Chứng quyền VHM/BSC/C/15M/EU/Cash/2024-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2502",
+        "name": "CVHM2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2501",
+        "name": "CVHM2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2411",
+        "name": "CVHM2411 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2410",
+        "name": "CVHM2410 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2409",
+        "name": "Chứng quyền VHM/MBS/C/EU/CASH/9M/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2408",
+        "name": "Chứng quyền VHM/ACBS/Call/EU/Cash/12M/63",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2407",
+        "name": "CVHM2407 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2406",
+        "name": "Chứng quyền VHM/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2405",
+        "name": "CVHM2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2404",
+        "name": "CVHM2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2403",
+        "name": "CVHM2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2402",
+        "name": "CVHM2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2401",
+        "name": "CVHM2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2319",
+        "name": "CVHM2319 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2318",
+        "name": "CVHM2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2317",
+        "name": "CVHM2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2316",
+        "name": "CVHM2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2315",
+        "name": "CVHM2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2314",
+        "name": "CVHM2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2313",
+        "name": "CVHM2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2312",
+        "name": "CVHM2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2311",
+        "name": "CVHM2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2310",
+        "name": "CVHM2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2309",
+        "name": "CVHM2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2308",
+        "name": "CVHM2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2307",
+        "name": "CVHM2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2306",
+        "name": "CVHM2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2305",
+        "name": "CVHM2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2304",
+        "name": "CVHM2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2303",
+        "name": "CVHM2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2302",
+        "name": "CVHM2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2301",
+        "name": "CVHM2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2220",
+        "name": "CVHM2220 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2219",
+        "name": "CVHM2219 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2218",
+        "name": "CVHM2218 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2217",
+        "name": "CVHM2217 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2216",
+        "name": "CVHM2216 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2215",
+        "name": "CVHM2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2214",
+        "name": "CVHM2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2213",
+        "name": "CVHM2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2212",
+        "name": "CVHM2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2211",
+        "name": "CVHM2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2210",
+        "name": "CVHM2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2209",
+        "name": "CVHM2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2208",
+        "name": "CVHM2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2207",
+        "name": "CVHM2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2206",
+        "name": "CVHM2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2205",
+        "name": "CVHM2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2204",
+        "name": "CVHM2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2203",
+        "name": "CVHM2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2202",
+        "name": "CVHM2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2201",
+        "name": "CVHM2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2115",
+        "name": "CVHM2115 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2114",
+        "name": "CVHM2114 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2113",
+        "name": "CVHM2113 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CVHM2111",
+        "name": "CVHM2111 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2511",
+        "name": "Chứng quyền TPB/VIETCAP/M/Au/T/A4",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2510",
+        "name": "Chứng quyền.TPB.KIS.M.CA.T.13",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2509",
+        "name": "Chứng quyền.TPB.KIS.M.CA.T.12",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2508",
+        "name": "Chứng quyền.TPB.KIS.M.CA.T.11",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2507",
+        "name": "Chứng quyền TPB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2506",
+        "name": "Chứng quyền TPB.02.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2505",
+        "name": "Chứng quyền.TPB.KIS.M.CA.T.10",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2504",
+        "name": "Chứng quyền TPB/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2503",
+        "name": "Chứng quyền TPB/ACBS/Call/EU/Cash/12M/75",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2502",
+        "name": "Chứng quyền TPB-HSC-MET03",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2501",
+        "name": "CTPB2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2405",
+        "name": "CTPB2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2404",
+        "name": "CTPB2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2403",
+        "name": "CTPB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2402",
+        "name": "CTPB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2401",
+        "name": "CTPB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2306",
+        "name": "CTPB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2305",
+        "name": "CTPB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2304",
+        "name": "CTPB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2303",
+        "name": "CTPB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2302",
+        "name": "CTPB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2301",
+        "name": "CTPB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2206",
+        "name": "CTPB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2205",
+        "name": "CTPB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2204",
+        "name": "CTPB2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2203",
+        "name": "CTPB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2202",
+        "name": "CTPB2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTPB2201",
+        "name": "CTPB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTG125014",
+        "name": "Trái phiếu kỳ hạn 10 năm (CTG2434T2/02) (CTG125014)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG125013",
+        "name": "Trái phiếu kỳ hạn 8 năm (CTG2432T2/02) (CTG125013)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG125002",
+        "name": "Trai phieu ky han 10 nam (CTG2434T2/01)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG125001",
+        "name": "Trai phieu ky han 08 nam (CTG2432T2/01)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG123034",
+        "name": "Trai phieu CTG",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG123033",
+        "name": "TRai phieu CTG",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG123019",
+        "name": "Trai phieu NHTMCP Cong Thuong Viet Nam",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG123018",
+        "name": "Trai phieu NHTMCP Cong Thuong Viet Nam",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG121031",
+        "name": "Trai phieu Ngan hang Thuong mai Co Phan Cong thuong Viet Nam",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTG121030",
+        "name": "CTG121030 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTD122015",
+        "name": "CTD122015 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CTCB2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2524",
+        "name": "Chứng quyền TCB/VIETCAP/M/Au/T/A7",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2523",
+        "name": "Chứng quyền TCB/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2522",
+        "name": "Chứng quyền TCB/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2521",
+        "name": "Chứng quyền.TCB.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2520",
+        "name": "Chứng quyền.TCB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2519",
+        "name": "Chứng quyền.TCB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2518",
+        "name": "Chứng quyền TCB/ACBS/Call/EU/Cash/7M/86",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2517",
+        "name": "Chứng quyền.TCB.KIS.M.CA.T.06",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2516",
+        "name": "Chứng quyền.TCB.KIS.M.CA.T.05",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2515",
+        "name": "Chứng quyền.TCB.KIS.M.CA.T.04",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2514",
+        "name": "Chứng quyền TCB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2513",
+        "name": "Chứng quyền.TCB.KIS.M.CA.T.03",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2512",
+        "name": "Chứng quyền TCB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2511",
+        "name": "Chứng quyền TCB/VPBANKS/C/EU/9M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2510",
+        "name": "Chứng quyền TCB/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2509",
+        "name": "Chứng quyền TCB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2508",
+        "name": "Chứng quyền TCB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2507",
+        "name": "Chứng quyền TCB/ACBS/Call/EU/Cash/12M/74",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2506",
+        "name": "CTCB2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2505",
+        "name": "CTCB2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2504",
+        "name": "Chứng quyền TCB/BSC/C/12M/EU/Cash/2024-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2503",
+        "name": "CTCB2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2502",
+        "name": "CTCB2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2501",
+        "name": "Chứng quyền TCB/VPBANKS/C/EU/7M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2406",
+        "name": "CTCB2406 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2405",
+        "name": "CTCB2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2404",
+        "name": "Chứng quyền TCB/MBS/C/EU/CASH/9M/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2403",
+        "name": "Chứng quyền TCB/ACBS/Call/EU/Cash/12M/62",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2402",
+        "name": "CTCB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2401",
+        "name": "CTCB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2312",
+        "name": "CTCB2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2311",
+        "name": "CTCB2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2310",
+        "name": "CTCB2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2309",
+        "name": "CTCB2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2308",
+        "name": "CTCB2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2307",
+        "name": "CTCB2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2306",
+        "name": "CTCB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2305",
+        "name": "CTCB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2304",
+        "name": "CTCB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2303",
+        "name": "CTCB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2302",
+        "name": "CTCB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2301",
+        "name": "CTCB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2216",
+        "name": "CTCB2216 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2215",
+        "name": "CTCB2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2214",
+        "name": "CTCB2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2213",
+        "name": "CTCB2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2212",
+        "name": "CTCB2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2211",
+        "name": "CTCB2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2210",
+        "name": "CTCB2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2209",
+        "name": "CTCB2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2208",
+        "name": "CTCB2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2207",
+        "name": "CTCB2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2206",
+        "name": "CTCB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2205",
+        "name": "CTCB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2204",
+        "name": "CTCB2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2203",
+        "name": "CTCB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2202",
+        "name": "CTCB2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2201",
+        "name": "CTCB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2112",
+        "name": "CTCB2112 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CTCB2105",
+        "name": "CTCB2105 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2605",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2538",
+        "name": "Chứng quyền STB/VIETCAP/M/Au/T/A7",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2537",
+        "name": "Chứng quyền STB/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2536",
+        "name": "Chứng quyền STB/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2535",
+        "name": "Chứng quyền STB/PINETREE/C/EU/7M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2534",
+        "name": "Chứng quyền STB/PINETREE/C/EU/4M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2533",
+        "name": "Chứng quyền.STB.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2532",
+        "name": "Chứng quyền.STB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2531",
+        "name": "Chứng quyền.STB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2530",
+        "name": "Chứng quyền STB/0225/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2529",
+        "name": "Chứng quyền STB/0125/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2528",
+        "name": "Chứng quyền STB/ACBS/Call/EU/Cash/7M/85",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2527",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.50",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2526",
+        "name": "Chứng quyền STB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2525",
+        "name": "Chứng quyền STB.06.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2524",
+        "name": "Chứng quyền STB.03.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2523",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.49",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2522",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.48",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2521",
+        "name": "Chứng quyền STB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2520",
+        "name": "Chứng quyền STB/VPBANKS/C/EU/9M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2519",
+        "name": "Chứng quyền STB/VPBANKS/C/EU/12M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2518",
+        "name": "Chứng quyền STB.6M.SSV.C.EU.Cash.25.01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2517",
+        "name": "Chứng quyền STB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2516",
+        "name": "Chứng quyền STB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2515",
+        "name": "Chứng quyền STB/ACBS/Call/EU/Cash/12M/73",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2514",
+        "name": "Chứng quyền STB-HSC-MET15",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2513",
+        "name": "Chứng quyền STB-HSC-MET14",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2512",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.47",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2511",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.46",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2510",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.45",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2509",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.44",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2508",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.43",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2507",
+        "name": "Chứng quyền.STB.KIS.M.CA.T.42",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2506",
+        "name": "CSTB2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2505",
+        "name": "CSTB2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2504",
+        "name": "CSTB2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2503",
+        "name": "CSTB2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2502",
+        "name": "Chứng quyền STB/VPBANKS/C/EU/9M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2501",
+        "name": "CSTB2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2413",
+        "name": "CSTB2413 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2412",
+        "name": "CSTB2412 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2411",
+        "name": "CSTB2411 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2410",
+        "name": "Chứng quyền STB/ACBS/Call/EU/Cash/12M/61",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2409",
+        "name": "Chứng quyền STB/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2408",
+        "name": "CSTB2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2407",
+        "name": "CSTB2407 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2406",
+        "name": "CSTB2406 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2405",
+        "name": "CSTB2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2404",
+        "name": "CSTB2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2403",
+        "name": "CSTB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2402",
+        "name": "CSTB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2401",
+        "name": "CSTB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2338",
+        "name": "CSTB2338 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2337",
+        "name": "CSTB2337 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2336",
+        "name": "CSTB2336 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2335",
+        "name": "CSTB2335 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2334",
+        "name": "CSTB2334 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2333",
+        "name": "CSTB2333 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2332",
+        "name": "CSTB2332 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2331",
+        "name": "CSTB2331 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2330",
+        "name": "CSTB2330 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2329",
+        "name": "CSTB2329 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2328",
+        "name": "CSTB2328 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2327",
+        "name": "CSTB2327 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2326",
+        "name": "CSTB2326 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2325",
+        "name": "CSTB2325 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2324",
+        "name": "CSTB2324 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2323",
+        "name": "CSTB2323 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2322",
+        "name": "CSTB2322 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2321",
+        "name": "CSTB2321 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2320",
+        "name": "CSTB2320 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2319",
+        "name": "CSTB2319 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2318",
+        "name": "CSTB2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2317",
+        "name": "CSTB2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2316",
+        "name": "CSTB2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2315",
+        "name": "CSTB2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2314",
+        "name": "CSTB2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2313",
+        "name": "CSTB2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2312",
+        "name": "CSTB2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2311",
+        "name": "CSTB2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2310",
+        "name": "CSTB2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2309",
+        "name": "CSTB2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2308",
+        "name": "CSTB2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2307",
+        "name": "CSTB2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2306",
+        "name": "CSTB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2305",
+        "name": "CSTB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2304",
+        "name": "CSTB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2303",
+        "name": "CSTB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2302",
+        "name": "CSTB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2301",
+        "name": "CSTB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2225",
+        "name": "CSTB2225 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2224",
+        "name": "CSTB2224 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2223",
+        "name": "CSTB2223 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2222",
+        "name": "CSTB2222 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2220",
+        "name": "CSTB2220 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2218",
+        "name": "CSTB2218 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2217",
+        "name": "CSTB2217 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2216",
+        "name": "CSTB2216 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2215",
+        "name": "CSTB2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2214",
+        "name": "CSTB2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2213",
+        "name": "CSTB2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2212",
+        "name": "CSTB2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2211",
+        "name": "CSTB2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2210",
+        "name": "CSTB2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2209",
+        "name": "CSTB2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2208",
+        "name": "CSTB2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2207",
+        "name": "CSTB2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2206",
+        "name": "CSTB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2205",
+        "name": "CSTB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2203",
+        "name": "CSTB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2202",
+        "name": "CSTB2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2201",
+        "name": "CSTB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2112",
+        "name": "CSTB2112 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSTB2110",
+        "name": "CSTB2110 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2509",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.10",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2508",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.09",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2507",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.08",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2506",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.07",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2505",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.06",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2504",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.05",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2503",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.04",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2502",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.03",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2501",
+        "name": "Chứng quyền.SSB.KIS.M.CA.T.02",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSSB2401",
+        "name": "CSSB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2515",
+        "name": "Chứng quyền SHB/VIETCAP/M/Au/T/A1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2514",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2513",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2512",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2511",
+        "name": "Chứng quyền SHB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2510",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.16",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2509",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.15",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2508",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.14",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2507",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.13",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2506",
+        "name": "Chứng quyền SHB.6M.SSV.C.EU.Cash.25.01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2505",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.12",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2504",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.11",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2503",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.10",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2502",
+        "name": "Chứng quyền.SHB.KIS.M.CA.T.09",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2501",
+        "name": "CSHB2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2403",
+        "name": "CSHB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2402",
+        "name": "CSHB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2401",
+        "name": "CSHB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2306",
+        "name": "CSHB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2305",
+        "name": "CSHB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2304",
+        "name": "CSHB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2303",
+        "name": "CSHB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2302",
+        "name": "CSHB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CSHB2301",
+        "name": "CSHB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2315",
+        "name": "CPOW2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2314",
+        "name": "CPOW2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2313",
+        "name": "CPOW2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2312",
+        "name": "CPOW2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2311",
+        "name": "CPOW2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2310",
+        "name": "CPOW2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2309",
+        "name": "CPOW2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2308",
+        "name": "CPOW2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2307",
+        "name": "CPOW2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2306",
+        "name": "CPOW2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2305",
+        "name": "CPOW2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2304",
+        "name": "CPOW2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2303",
+        "name": "CPOW2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2302",
+        "name": "CPOW2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2301",
+        "name": "CPOW2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2210",
+        "name": "CPOW2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2209",
+        "name": "CPOW2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2208",
+        "name": "CPOW2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2207",
+        "name": "CPOW2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2206",
+        "name": "CPOW2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2205",
+        "name": "CPOW2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2204",
+        "name": "CPOW2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2203",
+        "name": "CPOW2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2202",
+        "name": "CPOW2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPOW2201",
+        "name": "CPOW2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2205",
+        "name": "CPNJ2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2204",
+        "name": "CPNJ2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2203",
+        "name": "CPNJ2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2202",
+        "name": "CPNJ2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2201",
+        "name": "CPNJ2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2110",
+        "name": "CPNJ2110 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPNJ2109",
+        "name": "CPNJ2109 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2305",
+        "name": "CPDR2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2304",
+        "name": "CPDR2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2303",
+        "name": "CPDR2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2302",
+        "name": "CPDR2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2301",
+        "name": "CPDR2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2206",
+        "name": "CPDR2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2205",
+        "name": "CPDR2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2204",
+        "name": "CPDR2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2203",
+        "name": "CPDR2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2202",
+        "name": "CPDR2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2201",
+        "name": "CPDR2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CPDR2103",
+        "name": "CPDR2103 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2305",
+        "name": "CNVL2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2304",
+        "name": "CNVL2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2303",
+        "name": "CNVL2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2302",
+        "name": "CNVL2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2301",
+        "name": "CNVL2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2210",
+        "name": "CNVL2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2209",
+        "name": "CNVL2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2208",
+        "name": "CNVL2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2207",
+        "name": "CNVL2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2206",
+        "name": "CNVL2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2205",
+        "name": "CNVL2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2204",
+        "name": "CNVL2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2203",
+        "name": "CNVL2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2202",
+        "name": "CNVL2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2201",
+        "name": "CNVL2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CNVL2104",
+        "name": "CNVL2104 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMX123035",
+        "name": "Trai phieu CTCP Camimex Group",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CMWG2605",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2603",
+        "name": "Chứng quyền MWG/TCBS/C/EU/12M/CASH/02",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2528",
+        "name": "Chứng quyền MWG/VIETCAP/M/Au/T/A10",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2527",
+        "name": "Chứng quyền MWG/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2526",
+        "name": "Chứng quyền MWG/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2525",
+        "name": "Chứng quyền.MWG.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2524",
+        "name": "Chứng quyền.MWG.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2523",
+        "name": "Chứng quyền.MWG.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2522",
+        "name": "Chứng quyền MWG/0225/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2521",
+        "name": "Chứng quyền MWG/0125/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2520",
+        "name": "Chứng quyền MWG/ACBS/Call/EU/Cash/7M/84",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2519",
+        "name": "Chứng quyền MWG/MBS/C/EU/CASH/9M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2518",
+        "name": "Chứng quyền MWG.06.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2517",
+        "name": "Chứng quyền MWG.04.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2516",
+        "name": "Chứng quyền MWG.02.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2515",
+        "name": "Chứng quyền MWG/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2514",
+        "name": "Chứng quyền MWG/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2513",
+        "name": "Chứng quyền MWG/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2512",
+        "name": "Chứng quyền MWG/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2511",
+        "name": "Chứng quyền MWG/ACBS/Call/EU/Cash/12M/72",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2510",
+        "name": "Chứng quyền MWG-HSC-MET20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2509",
+        "name": "Chứng quyền MWG-HSC-MET19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2508",
+        "name": "Chứng quyền.MWG.KIS.M.CA.T.09",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2507",
+        "name": "Chứng quyền.MWG.KIS.M.CA.T.08",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2506",
+        "name": "CMWG2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2505",
+        "name": "CMWG2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2504",
+        "name": "Chứng quyền MWG/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2503",
+        "name": "CMWG2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2502",
+        "name": "CMWG2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2501",
+        "name": "CMWG2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2410",
+        "name": "CMWG2410 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2409",
+        "name": "CMWG2409 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2408",
+        "name": "CMWG2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2407",
+        "name": "Chứng quyền MWG/ACBS/Call/EU/Cash/12M/60",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2406",
+        "name": "Chứng quyền MWG/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2405",
+        "name": "CMWG2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2404",
+        "name": "CMWG2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2403",
+        "name": "CMWG2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2402",
+        "name": "CMWG2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2401",
+        "name": "CMWG2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2318",
+        "name": "CMWG2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2317",
+        "name": "CMWG2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2316",
+        "name": "CMWG2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2315",
+        "name": "CMWG2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2314",
+        "name": "CMWG2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2313",
+        "name": "CMWG2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2312",
+        "name": "CMWG2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2311",
+        "name": "CMWG2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2310",
+        "name": "CMWG2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2309",
+        "name": "CMWG2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2308",
+        "name": "CMWG2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2307",
+        "name": "CMWG2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2306",
+        "name": "CMWG2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2305",
+        "name": "CMWG2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2304",
+        "name": "CMWG2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2303",
+        "name": "CMWG2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2302",
+        "name": "CMWG2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2301",
+        "name": "CMWG2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2215",
+        "name": "CMWG2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2214",
+        "name": "CMWG2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2213",
+        "name": "CMWG2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2212",
+        "name": "CMWG2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2211",
+        "name": "CMWG2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2210",
+        "name": "CMWG2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2209",
+        "name": "CMWG2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2208",
+        "name": "CMWG2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2207",
+        "name": "CMWG2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2206",
+        "name": "CMWG2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2205",
+        "name": "CMWG2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2204",
+        "name": "CMWG2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2203",
+        "name": "CMWG2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2202",
+        "name": "CMWG2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2201",
+        "name": "CMWG2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2114",
+        "name": "CMWG2114 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2113",
+        "name": "CMWG2113 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMWG2111",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2523",
+        "name": "Chứng quyền MSN/VIETCAP/M/Au/T/A8",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2522",
+        "name": "Chứng quyền.MSN.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2521",
+        "name": "Chứng quyền.MSN.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2520",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.40",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2519",
+        "name": "Chứng quyền MSN/MBS/C/EU/CASH/9M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2518",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.39",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2517",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.38",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2516",
+        "name": "Chứng quyền MSN/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2515",
+        "name": "Chứng quyền MSN/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2514",
+        "name": "Chứng quyền MSN/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2513",
+        "name": "Chứng quyền MSN/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2512",
+        "name": "Chứng quyền MSN/ACBS/Call/EU/Cash/12M/71",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2511",
+        "name": "Chứng quyền MSN-HSC-MET11",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2510",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.37",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2509",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.36",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2508",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.35",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2507",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.34",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2506",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.33",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2505",
+        "name": "Chứng quyền.MSN.KIS.M.CA.T.32",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2504",
+        "name": "CMSN2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2503",
+        "name": "CMSN2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2502",
+        "name": "CMSN2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2501",
+        "name": "CMSN2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2408",
+        "name": "CMSN2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2407",
+        "name": "CMSN2407 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2406",
+        "name": "Chứng quyền MSN/ACBS/Call/EU/Cash/12M/59",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2405",
+        "name": "CMSN2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2404",
+        "name": "Chứng quyền MSN/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2403",
+        "name": "CMSN2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2402",
+        "name": "CMSN2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2401",
+        "name": "CMSN2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2317",
+        "name": "CMSN2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2316",
+        "name": "CMSN2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2315",
+        "name": "CMSN2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2314",
+        "name": "CMSN2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2313",
+        "name": "CMSN2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2312",
+        "name": "CMSN2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2311",
+        "name": "CMSN2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2310",
+        "name": "CMSN2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2309",
+        "name": "CMSN2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2308",
+        "name": "CMSN2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2307",
+        "name": "CMSN2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2306",
+        "name": "CMSN2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2305",
+        "name": "CMSN2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2304",
+        "name": "CMSN2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2303",
+        "name": "CMSN2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2302",
+        "name": "CMSN2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2301",
+        "name": "CMSN2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2215",
+        "name": "CMSN2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2214",
+        "name": "CMSN2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2213",
+        "name": "CMSN2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2212",
+        "name": "CMSN2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2211",
+        "name": "CMSN2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2210",
+        "name": "CMSN2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2209",
+        "name": "CMSN2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2208",
+        "name": "CMSN2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2207",
+        "name": "CMSN2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2206",
+        "name": "CMSN2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2205",
+        "name": "CMSN2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2204",
+        "name": "CMSN2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2203",
+        "name": "CMSN2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2202",
+        "name": "CMSN2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2201",
+        "name": "CMSN2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2111",
+        "name": "CMSN2111 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2110",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2108",
+        "name": "CMSN2108 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMSN2104",
+        "name": "CMSN2104 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2605",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2524",
+        "name": "Chứng quyền MBB/VIETCAP/M/Au/T/A7",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2523",
+        "name": "Chứng quyền MBB/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2522",
+        "name": "Chứng quyền MBB/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2521",
+        "name": "Chứng quyền.MBB.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2520",
+        "name": "Chứng quyền.MBB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2519",
+        "name": "Chứng quyền.MBB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2518",
+        "name": "Chứng quyền MBB/ACBS/Call/EU/Cash/7M/83",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2517",
+        "name": "Chứng quyền MBB/15M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2516",
+        "name": "Chứng quyền MBB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2515",
+        "name": "Chứng quyền MBB/VPBANKS/C/EU/9M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2514",
+        "name": "Chứng quyền MBB/VPBANKS/C/EU/6M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2513",
+        "name": "Chứng quyền MBB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2512",
+        "name": "Chứng quyền MBB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2511",
+        "name": "Chứng quyền MBB/ACBS/Call/EU/Cash/12M/70",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2510",
+        "name": "Chứng quyền MBB-HSC-MET19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2509",
+        "name": "Chứng quyền MBB-HSC-MET18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2508",
+        "name": "Chứng quyền MBB/TCBS/C/EU/6M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2507",
+        "name": "Chứng quyền MBB/TCBS/C/EU/12M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2506",
+        "name": "CMBB2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2505",
+        "name": "Chứng quyền MBB/BSC/C/15M/EU/Cash/2024-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2504",
+        "name": "Chứng quyền MBB/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2503",
+        "name": "CMBB2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2502",
+        "name": "CMBB2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2501",
+        "name": "Chứng quyền MBB/VPBANKS/C/EU/7M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2409",
+        "name": "CMBB2409 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2408",
+        "name": "CMBB2408 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2407",
+        "name": "Chứng quyền MBB/ACBS/Call/EU/Cash/12M/58",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2406",
+        "name": "CMBB2406 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2405",
+        "name": "Chứng quyền MBB/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2404",
+        "name": "CMBB2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2403",
+        "name": "CMBB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2402",
+        "name": "CMBB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2401",
+        "name": "CMBB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2318",
+        "name": "CMBB2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2317",
+        "name": "CMBB2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2316",
+        "name": "CMBB2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2315",
+        "name": "CMBB2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2314",
+        "name": "CMBB2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2313",
+        "name": "CMBB2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2312",
+        "name": "CMBB2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2311",
+        "name": "CMBB2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2310",
+        "name": "CMBB2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2309",
+        "name": "CMBB2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2308",
+        "name": "CMBB2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2307",
+        "name": "CMBB2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2306",
+        "name": "CMBB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2305",
+        "name": "CMBB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2304",
+        "name": "CMBB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2303",
+        "name": "CMBB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2302",
+        "name": "CMBB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2301",
+        "name": "CMBB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2215",
+        "name": "CMBB2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2214",
+        "name": "CMBB2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2213",
+        "name": "CMBB2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2212",
+        "name": "CMBB2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2211",
+        "name": "CMBB2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2210",
+        "name": "CMBB2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2209",
+        "name": "CMBB2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2208",
+        "name": "CMBB2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2207",
+        "name": "CMBB2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2206",
+        "name": "CMBB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2205",
+        "name": "CMBB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2204",
+        "name": "CMBB2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2203",
+        "name": "CMBB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2201",
+        "name": "CMBB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2109",
+        "name": "CMBB2109 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CMBB2107",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2510",
+        "name": "Chứng quyền LPB/VIETCAP/M/Au/T/A1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2509",
+        "name": "Chứng quyền.LPB.KIS.M.CA.T.06",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2508",
+        "name": "Chứng quyền.LPB.KIS.M.CA.T.05",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2507",
+        "name": "Chứng quyền.LPB.KIS.M.CA.T.04",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2506",
+        "name": "Chứng quyền.LPB.KIS.M.CA.T.03",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2505",
+        "name": "Chứng quyền.LPB.KIS.M.CA.T.02",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2504",
+        "name": "Chứng quyền.LPB.KIS.M.CA.T.01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2503",
+        "name": "Chứng quyền LPB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2502",
+        "name": "Chứng quyền LPB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CLPB2501",
+        "name": "Chứng quyền LPB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2213",
+        "name": "CKDH2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2212",
+        "name": "CKDH2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2211",
+        "name": "CKDH2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2210",
+        "name": "CKDH2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2209",
+        "name": "CKDH2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2208",
+        "name": "CKDH2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2207",
+        "name": "CKDH2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2206",
+        "name": "CKDH2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2205",
+        "name": "CKDH2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2204",
+        "name": "CKDH2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2203",
+        "name": "CKDH2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2202",
+        "name": "CKDH2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2201",
+        "name": "CKDH2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CKDH2107",
+        "name": "CKDH2107 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CII425021",
+        "name": "Trái phiếu CII425001",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CII424002",
+        "name": "CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CII42013",
+        "name": "Trai phieu CTCP Dau tu Ha Tang Ky thuat TP.HCM",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CII124021",
+        "name": "CTCP Dau tu Ha tang Ky thuat Thanh pho Ho Chi Minh",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CII121029",
+        "name": "CII121029 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CII121006",
+        "name": "CII121006 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CII120018",
+        "name": "CII120018 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "CHPG2605",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2542",
+        "name": "Chứng quyền HPG/VIETCAP/M/Au/T/A8",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2541",
+        "name": "Chứng quyền HPG/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2540",
+        "name": "Chứng quyền HPG/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2539",
+        "name": "Chứng quyền.HPG.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2538",
+        "name": "Chứng quyền.HPG.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2537",
+        "name": "Chứng quyền.HPG.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2536",
+        "name": "Chứng quyền HPG/0225/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2535",
+        "name": "Chứng quyền HPG/0125/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2534",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.52",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2533",
+        "name": "Chứng quyền HPG/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2532",
+        "name": "Chứng quyền HPG.09.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2531",
+        "name": "Chứng quyền HPG.08.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2530",
+        "name": "Chứng quyền HPG.05.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2529",
+        "name": "Chứng quyền HPG.04.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2528",
+        "name": "Chứng quyền HPG/ACBS/Call/EU/Cash/7M/82",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2527",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.51",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2526",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.50",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2525",
+        "name": "Chứng quyền HPG/15M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2524",
+        "name": "Chứng quyền HPG/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2523",
+        "name": "Chứng quyền HPG/VPBANKS/C/EU/12M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2522",
+        "name": "Chứng quyền HPG/VPBANKS/C/EU/9M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2521",
+        "name": "Chứng quyền HPG.6M.SSV.C.EU.Cash.25.01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2520",
+        "name": "Chứng quyền HPG/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2519",
+        "name": "Chứng quyền HPG/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2518",
+        "name": "Chứng quyền HPG/ACBS/Call/EU/Cash/12M/69",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2517",
+        "name": "Chứng quyền HPG-HSC-MET17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2516",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.49",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2515",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.48",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2514",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.47",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2513",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.46",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2512",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.45",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2511",
+        "name": "Chứng quyền.HPG.KIS.M.CA.T.44",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2510",
+        "name": "Chứng quyền HPG/TCBS/C/EU/12M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2509",
+        "name": "Chứng quyền HPG/TCBS/C/EU/6M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2508",
+        "name": "CHPG2508 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2507",
+        "name": "CHPG2507 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2506",
+        "name": "Chứng quyền HPG/BSC/C/12M/EU/Cash/2024-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2505",
+        "name": "Chứng quyền HPG/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2504",
+        "name": "CHPG2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2503",
+        "name": "CHPG2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2502",
+        "name": "Chứng quyền HPG/VPBANKS/C/EU/9M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2501",
+        "name": "CHPG2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2412",
+        "name": "CHPG2412 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2411",
+        "name": "CHPG2411 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2410",
+        "name": "Chứng quyền HPG/MBS/C/EU/CASH/9M/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2409",
+        "name": "Chứng quyền HPG/ACBS/Call/EU/Cash/12M/57",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2408",
+        "name": "Chứng quyền HPG/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2407",
+        "name": "CHPG2407 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2406",
+        "name": "Chứng quyền HPG/12M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2405",
+        "name": "CHPG2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2404",
+        "name": "CHPG2404 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2403",
+        "name": "CHPG2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2402",
+        "name": "CHPG2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2401",
+        "name": "CHPG2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2343",
+        "name": "CHPG2343 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2342",
+        "name": "CHPG2342 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2341",
+        "name": "CHPG2341 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2340",
+        "name": "CHPG2340 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2339",
+        "name": "CHPG2339 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2338",
+        "name": "CHPG2338 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2337",
+        "name": "CHPG2337 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2336",
+        "name": "CHPG2336 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2335",
+        "name": "CHPG2335 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2334",
+        "name": "CHPG2334 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2333",
+        "name": "CHPG2333 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2332",
+        "name": "CHPG2332 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2331",
+        "name": "CHPG2331 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2330",
+        "name": "CHPG2330 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2329",
+        "name": "CHPG2329 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2328",
+        "name": "CHPG2328 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2327",
+        "name": "CHPG2327 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2326",
+        "name": "CHPG2326 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2325",
+        "name": "CHPG2325 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2324",
+        "name": "CHPG2324 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2323",
+        "name": "CHPG2323 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2322",
+        "name": "CHPG2322 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2321",
+        "name": "CHPG2321 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2320",
+        "name": "CHPG2320 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2319",
+        "name": "CHPG2319 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2318",
+        "name": "CHPG2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2317",
+        "name": "CHPG2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2316",
+        "name": "CHPG2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2315",
+        "name": "CHPG2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2314",
+        "name": "CHPG2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2313",
+        "name": "CHPG2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2312",
+        "name": "CHPG2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2311",
+        "name": "CHPG2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2310",
+        "name": "CHPG2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2309",
+        "name": "CHPG2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2308",
+        "name": "CHPG2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2307",
+        "name": "CHPG2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2306",
+        "name": "CHPG2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2305",
+        "name": "CHPG2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2304",
+        "name": "CHPG2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2303",
+        "name": "CHPG2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2302",
+        "name": "CHPG2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2301",
+        "name": "CHPG2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2227",
+        "name": "CHPG2227 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2226",
+        "name": "CHPG2226 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2225",
+        "name": "CHPG2225 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2224",
+        "name": "CHPG2224 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2223",
+        "name": "CHPG2223 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2221",
+        "name": "CHPG2221 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2220",
+        "name": "CHPG2220 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2219",
+        "name": "CHPG2219 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2218",
+        "name": "CHPG2218 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2217",
+        "name": "CHPG2217 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2216",
+        "name": "CHPG2216 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2215",
+        "name": "CHPG2215 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2214",
+        "name": "CHPG2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2213",
+        "name": "CHPG2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2212",
+        "name": "CHPG2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2211",
+        "name": "CHPG2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2210",
+        "name": "CHPG2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2209",
+        "name": "CHPG2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2208",
+        "name": "CHPG2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2207",
+        "name": "CHPG2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2206",
+        "name": "CHPG2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2204",
+        "name": "CHPG2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2203",
+        "name": "CHPG2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2202",
+        "name": "CHPG2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2201",
+        "name": "CHPG2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2119",
+        "name": "CHPG2119 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2118",
+        "name": "CHPG2118 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2117",
+        "name": "CHPG2117 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2116",
+        "name": "CHPG2116 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHPG2114",
+        "name": "CHPG2114 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2510",
+        "name": "Chứng quyền HDB/VIETCAP/M/Au/T/A3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2509",
+        "name": "Chứng quyền.HDB.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2508",
+        "name": "Chứng quyền.HDB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2507",
+        "name": "Chứng quyền.HDB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2506",
+        "name": "Chứng quyền HDB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2505",
+        "name": "Chứng quyền.HDB.KIS.M.CA.T.26",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2504",
+        "name": "Chứng quyền.HDB.KIS.M.CA.T.25",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2503",
+        "name": "Chứng quyền.HDB.KIS.M.CA.T.24",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2502",
+        "name": "Chứng quyền.HDB.KIS.M.CA.T.23",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2501",
+        "name": "CHDB2501 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2401",
+        "name": "CHDB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2306",
+        "name": "CHDB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2305",
+        "name": "CHDB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2304",
+        "name": "CHDB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2303",
+        "name": "CHDB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2302",
+        "name": "CHDB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2301",
+        "name": "CHDB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2210",
+        "name": "CHDB2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2209",
+        "name": "CHDB2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2208",
+        "name": "CHDB2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2207",
+        "name": "CHDB2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2206",
+        "name": "CHDB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2205",
+        "name": "CHDB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2204",
+        "name": "CHDB2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2203",
+        "name": "CHDB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2202",
+        "name": "CHDB2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2201",
+        "name": "CHDB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CHDB2103",
+        "name": "CHDB2103 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2534",
+        "name": "Chứng quyền FPT/VIETCAP/M/Au/T/A8",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2533",
+        "name": "Chứng quyền FPT/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2532",
+        "name": "Chứng quyền FPT/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2531",
+        "name": "Chứng quyền FPT/PINETREE/C/EU/7M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2530",
+        "name": "Chứng quyền FPT/PINETREE/C/EU/4M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2529",
+        "name": "Chứng quyền.FPT.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2528",
+        "name": "Chứng quyền.FPT.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2527",
+        "name": "Chứng quyền.FPT.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2526",
+        "name": "Chứng quyền FPT/0225/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2525",
+        "name": "Chứng quyền FPT/0125/C/EU/Cash/MSVN",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2524",
+        "name": "Chứng quyền.FPT.KIS.M.CA.T.07",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2523",
+        "name": "Chứng quyền.FPT.KIS.M.CA.T.06",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2522",
+        "name": "Chứng quyền.FPT.KIS.M.CA.T.05",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2521",
+        "name": "Chứng quyền FPT.04.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2520",
+        "name": "Chứng quyền FPT.02.PHS.C.EU.Cash",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2519",
+        "name": "Chứng quyền FPT/ACBS/Call/EU/Cash/7M/81",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2518",
+        "name": "Chứng quyền FPT/15M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2517",
+        "name": "Chứng quyền FPT/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2516",
+        "name": "Chứng quyền FPT/VPBANKS/C/EU/7M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2515",
+        "name": "Chứng quyền FPT/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2514",
+        "name": "Chứng quyền FPT/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2513",
+        "name": "Chứng quyền FPT/ACBS/Call/EU/Cash/12M/68",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2512",
+        "name": "Chứng quyền FPT-HSC-MET18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2511",
+        "name": "Chứng quyền FPT-HSC-MET17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2510",
+        "name": "Chứng quyền.FPT.KIS.M.CA.T.04",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2509",
+        "name": "Chứng quyền.FPT.KIS.M.CA.T.03",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2508",
+        "name": "Chứng quyền FPT/TCBS/C/EU/12M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2507",
+        "name": "Chứng quyền FPT/TCBS/C/EU/6M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2506",
+        "name": "CFPT2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2505",
+        "name": "Chứng quyền FPT/BSC/C/12M/EU/Cash/2024-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2504",
+        "name": "CFPT2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2503",
+        "name": "Chứng quyền FPT/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2502",
+        "name": "CFPT2502 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2501",
+        "name": "Chứng quyền FPT/VPBANKS/C/EU/7M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2407",
+        "name": "CFPT2407 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2406",
+        "name": "CFPT2406 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2405",
+        "name": "Chứng quyền FPT/MBS/C/EU/CASH/9M/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2404",
+        "name": "Chứng quyền FPT/ACBS/Call/EU/Cash/12M/56",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2403",
+        "name": "CFPT2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2402",
+        "name": "Chứng quyền FPT/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2401",
+        "name": "CFPT2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2318",
+        "name": "CFPT2318 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2317",
+        "name": "CFPT2317 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2316",
+        "name": "CFPT2316 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2315",
+        "name": "CFPT2315 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2314",
+        "name": "CFPT2314 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2313",
+        "name": "CFPT2313 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2312",
+        "name": "CFPT2312 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2311",
+        "name": "CFPT2311 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2310",
+        "name": "CFPT2310 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2309",
+        "name": "CFPT2309 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2308",
+        "name": "CFPT2308 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2307",
+        "name": "CFPT2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2306",
+        "name": "CFPT2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2305",
+        "name": "CFPT2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2304",
+        "name": "CFPT2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2303",
+        "name": "CFPT2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2302",
+        "name": "CFPT2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2301",
+        "name": "CFPT2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2214",
+        "name": "CFPT2214 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2213",
+        "name": "CFPT2213 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2212",
+        "name": "CFPT2212 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2211",
+        "name": "CFPT2211 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2210",
+        "name": "CFPT2210 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2209",
+        "name": "CFPT2209 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2208",
+        "name": "CFPT2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2207",
+        "name": "CFPT2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2206",
+        "name": "CFPT2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2205",
+        "name": "CFPT2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2204",
+        "name": "CFPT2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2203",
+        "name": "CFPT2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2202",
+        "name": "CFPT2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2201",
+        "name": "CFPT2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2111",
+        "name": "CFPT2111 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2109",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CFPT2108",
+        "name": "CFPT2108 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CDGC2501",
+        "name": "Chứng quyền DGC/VIETCAP/M/Au/T/A1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2604",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2603",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2602",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2601",
+        "name": null,
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2518",
+        "name": "Chứng quyền ACB/VIETCAP/M/Au/T/A5",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2517",
+        "name": "Chứng quyền ACB/15M/KAFI/C/EU/CASH/2502",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2516",
+        "name": "Chứng quyền ACB/12M/KAFI/C/EU/CASH/2501",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2515",
+        "name": "Chứng quyền.ACB.VND.M.CA.T.2025.3",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2514",
+        "name": "Chứng quyền.ACB.VND.M.CA.T.2025.2",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2513",
+        "name": "Chứng quyền.ACB.VND.M.CA.T.2025.1",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2512",
+        "name": "Chứng quyền ACB/MBS/C/EU/CASH/6M/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2511",
+        "name": "Chứng quyền ACB/15M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2510",
+        "name": "Chứng quyền ACB/12M/SSI/C/EU/Cash-20",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2509",
+        "name": "Chứng quyền ACB/VPBANKS/C/EU/7M/CASH/25-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2508",
+        "name": "Chứng quyền ACB/7M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2507",
+        "name": "Chứng quyền ACB/5M/SSI/C/EU/Cash-19",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2506",
+        "name": "CACB2506 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2505",
+        "name": "CACB2505 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2504",
+        "name": "CACB2504 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2503",
+        "name": "CACB2503 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2502",
+        "name": "Chứng quyền ACB/15M/SSI/C/EU/Cash-18",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2501",
+        "name": "Chứng quyền ACB/VPBANKS/C/EU/7M/CASH/24-01",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2405",
+        "name": "CACB2405 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2404",
+        "name": "Chứng quyền ACB/9M/SSI/C/EU/Cash-17",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2403",
+        "name": "CACB2403 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2402",
+        "name": "CACB2402 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2401",
+        "name": "CACB2401 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2307",
+        "name": "CACB2307 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2306",
+        "name": "CACB2306 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2305",
+        "name": "CACB2305 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2304",
+        "name": "CACB2304 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2303",
+        "name": "CACB2303 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2302",
+        "name": "CACB2302 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2301",
+        "name": "CACB2301 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2208",
+        "name": "CACB2208 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2207",
+        "name": "CACB2207 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2206",
+        "name": "CACB2206 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2205",
+        "name": "CACB2205 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2204",
+        "name": "CACB2204 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2203",
+        "name": "CACB2203 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2202",
+        "name": "CACB2202 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2201",
+        "name": "CACB2201 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2103",
+        "name": "CACB2103 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "CACB2102",
+        "name": "CACB2102 - Chứng quyền",
+        "type": "CW"
+    },
+    {
+        "symbol": "BVB125003",
+        "name": "Trái phiếu BVB phát hành ra công chúng năm 2024-2025 ( đợt 2)- BVB125003",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BVB124020",
+        "name": "Trái phiếu BVB phát hành ra công chúng 2024-2025 đợt 1",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BVB123025",
+        "name": "BVB123025 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BVB122028",
+        "name": "BVB122028 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BVB121034",
+        "name": "BVB121034 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID123004",
+        "name": "TP NHTMCP BIDV 2021 (007C)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID123003",
+        "name": "BID123003 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID123002",
+        "name": "BID123002 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID122005",
+        "name": "Trai phieu BIDV",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID122004",
+        "name": "BID122004 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID122003",
+        "name": "BID122003 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID121028",
+        "name": "BID121028 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BID121027",
+        "name": "BID121027 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BCG122006",
+        "name": "Trai phieu CTCP Bamboo Capital",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAF123020",
+        "name": "Trai phieu BAFH2225002",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAF122029",
+        "name": "Trái phiếu CTCP Nông nghiệp BAF Việt Nam",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB125023",
+        "name": "Trái phiếu Ngân hàng TMCP Bắc Á phát hành ra công chúng lần 2 Đợt 3 (BAB203-07C)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB125022",
+        "name": "Trái phiếu Ngân hàng TMCP Bắc Á phát hành ra công chúng lần 2 Đợt 3 (BAB203-07L)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB124026",
+        "name": "Trái phiếu NHTMCP Bắc Á (BAB202-08C)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB124025",
+        "name": "Trái phiếu Ngân hàng TMCP Bắc Á đợt 2",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB124024",
+        "name": "Trái phiếu Ngân hàng TMCP Bắc Á (BAB202-07L)",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB124016",
+        "name": "Trai phieu Ngan hang TMCP BAc A",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB124015",
+        "name": "Trai phieu NHTMCP Bac A",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB124014",
+        "name": "Trai phieu ngan hang TMCP BAC A",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB123032",
+        "name": "Trai phieu NHTMCP Bac A 2022",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB123031",
+        "name": "Trai phieu NHTMCP Bac A 2022",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB123030",
+        "name": "BAB123030 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB123007",
+        "name": "Trai phieu NHTMCP Bac A 2023",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB123006",
+        "name": "BAB123006 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB123005",
+        "name": "BAB123005 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB122032",
+        "name": "Trai phieu NHTMCP Bac A 2022",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB122031",
+        "name": "BAB122031 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "BAB122030",
+        "name": "BAB122030 - Trái phiếu",
+        "type": "BOND"
+    },
+    {
+        "symbol": "41I2G9000",
+        "name": "VN100 Index Futures 092026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2G6000",
+        "name": "VN100 Index Futures 062026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2G3000",
+        "name": "VN100 Index Futures 032026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2G2000",
+        "name": "VN100 Index Futures 022026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2G1000",
+        "name": "41I2G1000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2FC000",
+        "name": "41I2FC000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2FB000",
+        "name": "41I2FB000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I2FA000",
+        "name": "41I2FA000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1G9000",
+        "name": "VN30 Index Futures 092026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1G6000",
+        "name": "VN30 Index Futures 062026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1G3000",
+        "name": "VN30 Index Futures 032026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1G2000",
+        "name": "VN30 Index Futures 022026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1G1000",
+        "name": "41I1G1000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1FB000",
+        "name": "41I1FB000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1FA000",
+        "name": "41I1FA000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1F8000",
+        "name": "41I1F8000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41I1F7000",
+        "name": "41I1F7000 - HĐTL",
+        "type": "FU"
+    },
+    {
+        "symbol": "41BAG9000",
+        "name": "10-year Government Bond   Futures 092026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41BAG6000",
+        "name": "10-year Government Bond   Futures 062026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41BAG3000",
+        "name": "10-year Government Bond   Futures 032026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41B5G9000",
+        "name": "5-year Government Bond    Futures 092026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41B5G6000",
+        "name": "5-year Government Bond    Futures 062026",
+        "type": "FU"
+    },
+    {
+        "symbol": "41B5G3000",
+        "name": "5-year Government Bond    Futures 032026",
+        "type": "FU"
+    }
+]
