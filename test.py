@@ -25,8 +25,9 @@ def check_symbols_icb():
                 count +=1
                 break
             
-        
-    if count != 0 : 
+    
+    size = len(icb_info)
+    if count == size : 
         print('data oke ')
     else: 
         print('ERROR')
