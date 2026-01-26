@@ -1,0 +1,46 @@
+[
+    {
+        "sector_code":"0001",
+        "sector_name":"Dầu khí"
+    },
+    {
+        "sector_code":"1000",
+        "sector_name":"Nguyên vật liệu"
+    },
+    {
+        "sector_code":"2000",
+        "sector_name":"Công nghiệp"
+    },
+    {
+        "sector_code":"3000",
+        "sector_name":"Hàng Tiêu dùng"
+    },
+    {
+        "sector_code":"4000",
+        "sector_name":"Dược phẩm và Y tế"
+    },
+    {
+        "sector_code":"5000",
+        "sector_name":"Dịch vụ Tiêu dùng"
+    },
+    {
+        "sector_code":"6000",
+        "sector_name":"Viễn thông"
+    },
+    {
+        "sector_code":"7000",
+        "sector_name":"Tiện ích Cộng đồng"
+    },
+    {
+        "sector_code":"8000",
+        "sector_name":"Tài chính"
+    },
+    {
+        "sector_code":"8301",
+        "sector_name":"Ngân hàng"
+    },
+    {
+        "sector_code":"9000",
+        "sector_name":"Công nghệ Thông tin"
+    }
+]

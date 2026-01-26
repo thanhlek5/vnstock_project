@@ -20,7 +20,7 @@ def save_data(folder,filename,dataframe):
     if not os.path.exists(folder): 
         os.makedirs(folder)
     path = os.path.join(folder,filename)
-    dataframe.to_json(path,orient = 'records',lines = True ,force_ascii = False)
+    dataframe.to_json(path,orient = 'records',indent = 4 ,force_ascii = False)
     print('DONE')
 
 def transform_data():
@@ -46,7 +46,7 @@ def transform_data():
     } for i in info_other] 
     exchanges = cleaned_data(pd.DataFrame(exchanges))
     groups = [{
-        'group_code': i.get('product_grp_id')
+        'stock_group_code': i.get('product_grp_id')
     } for i in info_other]
     groups = cleaned_data(pd.DataFrame(groups))
     save_data('/mnt/d/workshop/vnstock_project/backend/process',f'transform_exchange_{date}.json',exchanges)

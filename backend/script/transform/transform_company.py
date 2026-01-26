@@ -25,7 +25,7 @@ def transform_company():
     companies = [{
         'company_name': i.get('organ_name'),
         'company_code': i.get('symbol')
-    } for i in company_name]
+    } for i in company_name if i.get('type') == 'STOCK' ]
     companies = cleaned_data(pd.DataFrame(companies))
     
     companies = pd.merge(
@@ -35,7 +35,7 @@ def transform_company():
                                        'issue_share': 'company_issue_share', 
                                        'company_profile':'company_profile',
                                        'financial_ratio_issue_share':'company_financial_ratio_issue_share',
-                                       'charter_capital': 'company_charter_share'}),
+                                       'charter_capital': 'company_charter_capital'}),
                     left_on = 'company_code',
                     right_on = 'symbol',
                     how ='left'
